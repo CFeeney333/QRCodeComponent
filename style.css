@@ -5,9 +5,9 @@
     --dark-blue: hsl(218, 44%, 22%);
 
     --bg-clr: var(--white);
-    --main-bg-clr: var(--grayish-blue);
+    --main-bg-clr: var(--light-gray);
     --primary-clr: var(--dark-blue);
-    --secondary-clr: var(--light-gray);
+    --secondary-clr: var(--grayish-blue);
 
     --fs-medium: 1em;
     --fs-large: 2em;
