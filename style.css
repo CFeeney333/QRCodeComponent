@@ -28,7 +28,7 @@ body {
     justify-content: center;
 }
 
-.card {
+main {
     width: 18em;
     background: var(--bg-clr);
     padding: 1em;
@@ -52,7 +52,7 @@ img {
     gap: 1em;
 }
 
-h2 {
+h1 {
     color: var(--primary-clr);
     margin: 0;
 }
